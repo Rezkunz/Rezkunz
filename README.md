@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezkunz&theme=tokyonight&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezkunz&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezkunz&theme=tokyonight" alt="Languages Card" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezkunz&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
