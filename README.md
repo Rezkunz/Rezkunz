@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%91%8B;I'm+Reza+Dwi+Saputra;Full+Stack+Developer;Information+Systems+Student" alt="Typing SVG" />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsxdThhZGUxd3Q5dmJsenprb2ZiYjBhM29keTNsMGt2ZGZoZnBiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1dcLFNKRUKvte/giphy.gif" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezkunz&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezkunz&theme=tokyonight" alt="Languages Card" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezkunz&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Hello+World!+%F0%9F%91%8B;I'm+Reza+Dwi+Saputra;Full+Stack+Developer;Information+Systems+Student" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,6 +47,13 @@ I'm a passionate developer from **Indonesia** currently pursuing my degree at **
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezkunz&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezkunz&theme=tokyonight" alt="Languages Card" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezkunz&theme=tokyonight" alt="Streak Stats" />
+</div>
 
 ### 🏆 Achievements & Activity
 
