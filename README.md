@@ -3,20 +3,8 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Rezkunz">
-          <img src="https://github-readme-stats.vercel.app/api?username=Rezkunz&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Rezkunz">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkunz&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezkunz&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkunz&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
