@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Reza+Dwi+Saputra;Full+Stack+Developer;Laravel+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Reza+Dwi+Saputra;Full+Stack+Developer;Information+Systems+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezkunz&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkunz&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezkunz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezkunz&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
 ---
